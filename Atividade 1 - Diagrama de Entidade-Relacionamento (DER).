@@ -1,8 +1,0 @@
--- Atividade 1 - Diagrama de Entidade-Relacionamento (DER).
--- Curso Técnico em Desenvolvimento de Sistemas - Senac
-
-CREATE TABLE cliente (
-    id_cliente INT PRIMARY KEY,
-    nome VARCHAR(100),
-    email VARCHAR(100)
-);
